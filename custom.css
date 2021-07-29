@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* common custom */
+h4{
+    font-size: 0.875rem;
+}
+h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+h5{
+    color: #000;
+}
+h6{
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+p{
+    font-size: 1rem;
+}
+span{
+    color: #E76F51;
+}
+.mdl-body{
+    color: #000;
+}
+/*start header section */
+.bg-header{
+    background-color: #264653;
+    color: #fff;
+    height: 41rem;
+    overflow-x: hidden;
+}
+.Purchase-btn{
+    background-color: #E76F51;
+    color: #fff;
+    border: 0;
+}
+/* section about Fetured Bikes */
+.grayscale{
+    filter: grayscale(1);
+}
+/* Happy Clients section */
+.rating-color{
+    color: #E76F51;
+}
+.clint-name-color{
+    color: #23A6F0;
+}
+.img-sizing{
+    width: 8.688rem;
+    height: 8.688rem;
+}
+/* contact form */
+.contact-bg{
+    background-color:#e76f511e;
+    border-radius: 1rem;
+}
